@@ -1,2 +1,7 @@
-# picture_info
-add custom information into PNG and JPEG  file. Linux C.
+# picture_info 
+PNG或JPEG图片添加用户自定义信息。Linux C工程。
+================================================
+### 用法
+./a.out 原始图片.jpg/png　新图片.jpg/png
+
+注明：格式需要一致，由用户控制，程序不作判断
